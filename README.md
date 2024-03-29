@@ -1,5 +1,4 @@
 # Crowdfunding_ETL
-- ChatGPT assisted in writing some code 
 
 For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
 
@@ -142,3 +141,5 @@ To convert the "goal" and "pledged" columns to the float data type, use the asty
 To convert the "launch_date" and "end_date" UTC times to the datetime format, see the Transform_Grocery_Orders_Solved.ipynb activity solution.
 
 For more information about how to add the "category_id" and "subcategory_id" unique identification numbers to the campaign DataFrame, see the pandas.DataFrame.mergeLinks to an external site. in the Pandas documentation.
+
+### ChatGpt assisted in writing some code
